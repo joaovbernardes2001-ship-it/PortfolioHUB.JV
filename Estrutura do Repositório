@@ -1,0 +1,16 @@
+PortfolioHUB/
+│
+├── README.md
+├── projetos-academicos/
+│   ├── lp-python/
+│   ├── banco-de-dados/
+│   └── testes-software/
+│
+├── projetos-pessoais/
+│   └── portfolio-site/
+│
+├── documentos/
+│   ├── slides/
+│   └── relatorios/
+│
+└── github-pages/
